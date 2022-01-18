@@ -34,7 +34,7 @@ export default function Footer() {
           <div className='grid grid-cols-12 lg:gap-16 gap-4'>
             <div className='md:col-span-5 col-span-12'>
               <a href="#">
-                <img
+                <img alt="" 
                   className="xl:h-20 lg:h-16 md:h-12 h-12  w-auto mb-4"
                   src="/assets/images/MetaversolLogo_White.png"
                 />

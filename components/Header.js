@@ -22,7 +22,7 @@ export default function Example() {
                             <div className="flex justify-between items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                                 <div className="flex items-center justify-between w-full md:w-auto">
                                     <a href="#">
-                                        <img
+                                        <img alt="" 
                                             className="xl:h-20 lg:h-16 md:h-12 h-12  w-auto"
                                             src="/assets/images/MetaversolLogo_White.png"
                                         />
@@ -72,7 +72,7 @@ export default function Example() {
                             <div className="rounded-lg shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
                                 <div className="px-5 pt-4 flex items-center justify-between">
                                     <div className='bg-blue-9 rounded-xl'>
-                                        <img
+                                        <img alt="" 
                                             className=" h-12  w-auto"
                                             src="/assets/images/MetaversolLogo_White.png"
                                         />

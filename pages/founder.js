@@ -24,7 +24,7 @@ export default function Home() {
             <div className='flex justify-center'>
               <div className=' border-purple bg-blue-10 w-102 p-11 rounded-3xl border-4'>
                 <div className='flex justify-center flex-col items-center mb-8'>
-                  <img src='/assets/images/Solanacoin1.png' alt='Solanacoin1' />
+                  <img alt=""  src='/assets/images/Solanacoin1.png' alt='Solanacoin1' />
                 </div>
                 <h5 className='text-purple md:text-4xl text-2xl font-bold mb-6 text-center'>CHARLES POOLE</h5>
                 <p className='text-white lg:text-2xl md:text-xl text-md text-center lg:mb-10 mb-6'>
@@ -35,7 +35,7 @@ export default function Home() {
             <div className='flex justify-center'>
               <div className=' border-purple bg-blue-10 w-102 p-11 rounded-3xl border-4'>
                 <div className='flex justify-center flex-col items-center mb-8'>
-                  <img src='/assets/images/Solanacoin1.png' alt='Solanacoin1' />
+                  <img alt=""  src='/assets/images/Solanacoin1.png' alt='Solanacoin1' />
                 </div>
                 <h5 className='text-purple md:text-4xl text-2xl font-bold mb-6 text-center'>CHARLES POOLE</h5>
                 <p className='text-white lg:text-2xl md:text-xl text-md text-center lg:mb-10 mb-6'>

@@ -5,7 +5,7 @@ import Header from '../components/Header'
 
 export default function Home() {
   return (
-    <div>
+    <div className='homepage'>
       <Head>
         <title>Create Next App</title>
         <meta name="description" content="Meet the Founder" />
@@ -16,7 +16,7 @@ export default function Home() {
       <section className='xl:pt-40 lg:pt-32 md:pt-24 pt-8'>
         <div className='max-w-7xl mx-auto px-4'>
           <div className='lg:mb-24 mb-8'>
-            <h2 className='xl:text-6xl lg:text-4xl text-3xl font-bold text-white text-center'>
+            <h2 className='xl:text-5xl lg:text-4xl text-3xl font-bold text-white text-center'>
               MEET THE FOUNDERS
             </h2>
           </div>

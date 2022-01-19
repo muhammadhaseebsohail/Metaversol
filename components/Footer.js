@@ -13,7 +13,7 @@ export default function Footer() {
               <h3 className='text-white xl:text-5xl md:text-4xl text-2xl font-bold lg:mb-12 md:mb-8 mb-6'>
                 Stay Up-To-Date
               </h3>
-              <p className='text-white lg:text-2xl md:text-xl text-md text-left lg:mb-10 mb-6'>
+              <p className='text-white lg:text-xl md:text-xl text-md text-left lg:mb-10 mb-6'>
                 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem
               </p>
             </div>
@@ -39,7 +39,7 @@ export default function Footer() {
                   src="/assets/images/MetaversolLogo_White.png"
                 />
               </a>
-              <p className='text-white lg:text-2xl md:text-xl text-md text-left lg:mb-10 mb-6'>
+              <p className='text-white lg:text-xl md:text-xl text-md text-left lg:mb-10 mb-6'>
                 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem
               </p>
             </div>
@@ -70,7 +70,7 @@ export default function Footer() {
         </div>
 
         <div className='flex justify-center w-full text-center lg:py-8 py-4 md:8 border-t-2 px-4 border-purple'>
-          <p className='md:text-lg text-xs text-white uppercase'>© 2022 Copyrights All Rights Reserved By METAVERSOL</p>
+          <p className='md:text-md text-xs text-white uppercase'>© 2022 Copyrights All Rights Reserved By METAVERSOL</p>
         </div>
       </section>
     </>

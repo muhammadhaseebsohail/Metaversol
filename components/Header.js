@@ -6,10 +6,10 @@ import { Popover, Transition } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
 const navigation = [
-    { name: 'Product', href: '#' },
-    { name: 'Features', href: '#' },
-    { name: 'Marketplace', href: '#' },
-    { name: 'Company', href: '#' },
+    { name: 'SERVICES', href: '/services' },
+    { name: 'PASS', href: '/metaversol-pass' },
+    { name: 'TEAM', href: '/metaversol-pass' },
+    { name: 'ROADMAP', href: '/roadmap' },
 ]
 
 export default function Example() {
@@ -23,7 +23,7 @@ export default function Example() {
                                 <div className="flex items-center justify-between w-full md:w-auto">
                                     <a href="#">
                                         <img alt="" 
-                                            className="xl:h-20 lg:h-16 md:h-12 h-12  w-auto"
+                                            className="xl:h-20 lg:h-16 md:h-12 h-12 w-auto"
                                             src="/assets/images/MetaversolLogo_White.png"
                                         />
                                     </a>

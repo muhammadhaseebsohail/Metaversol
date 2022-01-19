@@ -7,6 +7,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Poppins", sans-serif;
+}
+.homepage {
   background: url("/assets/images/body-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -67,16 +69,42 @@ a {
   background: url("/assets/images/ChainCta.png");
   background-repeat: no-repeat;
   background-size: 690px;
-  background-position: 88% 270px;
+  background-position: 88% 146px;
+}
+.service-cta {
+  background: url("/assets/images/glob-Cta.png");
+  background-repeat: no-repeat;
+  background-size: 1012px;
+  background-position: 100% 184px;
+}
+.RoadMap-cta {
+  background: url("/assets/images/RoadMap-cta.png");
+  background-repeat: no-repeat;
+  background-size: 720px;
+  background-position: 100% 250px;
+}
+.service-cta-title {
+  width: 21rem;
 }
 
 @media only screen and (max-width: 1024px) {
   .glob-cta {
     background-size: 490px;
-    background-position: 88% 240px;
+    background-position: 88% 140px;
+  }
+  .service-cta {
+    background-size: 798px;
+    background-position: 100% 235px;
+  }
+  .RoadMap-cta {
+    background-size: 100%;
+    background-position: 100% 235px;
   }
 }
 @media only screen and (max-width: 768.5px) {
+  .service-cta-title {
+    width: 100%;
+  }
   .glob-cta {
     background-size: 412px;
     background-position: 89% 187px;
@@ -86,10 +114,40 @@ a {
     height: 45.51px;
     padding: 10px 25px;
   }
+  .service-cta {
+    background-size: 660px;
+    background-position: 100% 205px;
+  }
+  .RoadMap-cta {
+    background-size: 100%;
+    background-position: 100% 285px;
+  }
 }
 @media only screen and (max-width: 525.5px) {
   .glob-cta {
-    background-size: 415px;
-    background-position: 0 265px;
+    background-size: 430px;
+    background-position: 0 230px;
+  }
+  .service-cta {
+    background-size: 450px;
+    background-position: 100% 360px;
+  }
+  .RoadMap-cta {
+    background-size: 100%;
+    background-position: 100% 290px;
+  }
+}
+@media only screen and (max-width: 375.5px) {
+  .glob-cta {
+    background-size: 430px;
+    background-position: 0 282px;
+  }
+  .service-cta {
+    background-size: 450px;
+    background-position: 100% 390px;
+  }
+  .RoadMap-cta {
+    background-size: 100%;
+    background-position: 100% 345px;
   }
 }

@@ -104,7 +104,7 @@ export default function Services() {
                                 <div>
                                     <h4 className='xl:text-2xl text-xl  text-purple font-bold md:mb-6 mb-3'>
                                         Tools to edit your
-                                        project's planet
+                                        projects planet
                                     </h4>
                                     <p className='text-white xl:text-xl lg:text-xl md:text-xl text-md lg:mb-4 mb-6'>
                                         The Expanse is comprised entirely of the projects and businesses that we have brought onboard  our platform.

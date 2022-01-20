@@ -1,9 +1,12 @@
 {
   "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/founder": "pages/founder.html",
+  "/": "pages/index.html",
+  "/metaversol-pass": "pages/metaversol-pass.html",
+  "/roadmap": "pages/roadmap.html",
+  "/services": "pages/services.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/metaversol-pass": "pages/metaversol-pass.js",
-  "/founder": "pages/founder.js",
-  "/roadmap": "pages/roadmap.js"
+  "/404": "pages/404.html"
 }

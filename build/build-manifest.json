@@ -15,6 +15,11 @@
     "static/development/_middlewareManifest.js"
   ],
   "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -34,6 +39,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/metaversol-pass.js"
+    ],
+    "/roadmap": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/roadmap.js"
+    ],
+    "/services": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/services.js"
     ]
   },
   "ampFirstPages": []

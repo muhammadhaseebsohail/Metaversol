@@ -5,7 +5,7 @@ import Header from '../components/Header'
 
 export default function Home() {
   return (
-    <div className='homepage'>
+    <div className='founder-page'>
       <Head>
         <title>Create Next App</title>
         <meta name="description" content="Meet the Founder" />

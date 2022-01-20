@@ -13,6 +13,26 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.roadmap-page {
+  background: url("/assets/images/roadmap-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.founder-page {
+  background: url("/assets/images/founder-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.metaversol-pass-page {
+  background: url("/assets/images/metaversol-pass-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.services-page {
+  background: url("/assets/images/services-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .w-full {
   width: 100%;
 }
@@ -102,6 +122,11 @@ a {
   }
 }
 @media only screen and (max-width: 768.5px) {
+.homepage {
+  background: url("/assets/images/mob-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
   .service-cta-title {
     width: 100%;
   }
